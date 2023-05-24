@@ -1,5 +1,5 @@
 # Projects
-just a few projects completed during study year. a lot of improvement to be done.
+just a project completed during study year. a lot of improvement to be done.
 
 Scenario
 A SMB (small-to-medium business), Laurel Technology Solutions Ltd., has recently begun to
